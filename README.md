@@ -1,4 +1,4 @@
-# Kleiner Zahlengenerator auf PHP Basis (Unterrichtsstoff)
+# Kleiner Zahlengenerator auf PHP Basis
 
 Der Code ist eine einfache HTML- und PHP-Anwendung, die einen Lottogenerator erstellt. 
 
