@@ -17,3 +17,5 @@ Hierbei handelt es sich schlicht um Unterrichtsstoff. Die initiale Aufgabe besta
 Die Anwendung dient nur zur Veranschaulichung meines persönlichen Lernfortschritts und ist nicht zur kommerziellen Nutzung bestimmt. Nutzung auf eigene Gefahr.
 
 
+
+(Die Anwendung beinhaltete initial noch ein Foto namens "lotto_suisse.jpg" welches im Header Platz gefunden hat. Ich habe dieses aus Datenschutzzwecken aus dem Repo ausgeschlossen.)
